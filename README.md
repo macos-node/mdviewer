@@ -81,6 +81,8 @@ highlight.js (BSD-3-Clause) is bundled in `Resources/`. The app is ad-hoc signed
 
 [^1]: Like this one.
 
+See [BACKLOG.md](BACKLOG.md) for planned improvements.
+
 ## License
 
 No license has been chosen yet, so all rights are reserved for now. An MIT license may be added
