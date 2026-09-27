@@ -32,7 +32,7 @@ let html = MarkdownRenderer.html(from: "# Hello <world>")
 
 ## Download
 
-Grab `mdviewer.zip` from the [latest release](https://github.com/xjmzx/mdviewer/releases/latest),
+Grab `mdviewer.zip` from the [latest release](https://github.com/macos-node/mdviewer/releases/latest),
 unzip, and move `mdviewer.app` to `/Applications`.
 
 The app is ad-hoc signed (not notarized), so macOS blocks the first launch. Either right-click
@@ -74,7 +74,7 @@ Documents never touch the network:
 
 The one exception is **mdviewer → Check for Updates…**, which the app (not a document) runs only
 when you choose it. It calls `api.github.com/repos/<MDVUpdateRepository>/releases/latest`
-(set in `project.yml`, currently `xjmzx/mdviewer`) and offers to open the release page on
+(set in `project.yml`, currently `macos-node/mdviewer`) and offers to open the release page on
 github.com. Nothing is downloaded or installed automatically.
 
 highlight.js (BSD-3-Clause) is bundled in `Resources/`. The app is ad-hoc signed.
