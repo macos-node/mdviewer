@@ -80,3 +80,8 @@ github.com. Nothing is downloaded or installed automatically.
 highlight.js (BSD-3-Clause) is bundled in `Resources/`. The app is ad-hoc signed.
 
 [^1]: Like this one.
+
+## License
+
+No license has been chosen yet, so all rights are reserved for now. An MIT license may be added
+later. highlight.js, bundled in `Resources/`, is under its own BSD-3-Clause license.
